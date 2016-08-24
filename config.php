@@ -6,5 +6,5 @@ $user = "root"; //MYSQL用户
 $pwd ="12qwaszx"; //MYSQL密码
 $dbname = "ov"; //数据库名
 $adminuser="admin";//管理员用户名
-$adminpass="19961129";//管理员密码
+$adminpass="12qwaszx";//管理员密码
 ?>
